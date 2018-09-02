@@ -1,9 +1,6 @@
 # For the first time.
-- Install git in the local PC by typing this code on the terminal
-```bash
-sudo apt-get install git-core
-```
-- Create an account at [github.com]
+- Install git in the local PC. In GNU/Linux `sudo apt-get install git-core`
+- Create an account at [GitHub](https://github.com)
 - Once logged into  your account, create a new repo.
 - In the local PC, open a terminal `CTRL+ALT+T`
 - Locate the folder where you want to generate an origin for the repo
