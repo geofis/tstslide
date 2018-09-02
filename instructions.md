@@ -1,7 +1,8 @@
 # For the first time.
 - Install git in the local PC by typing this code on the terminal
-
-`sudo apt-get install git-core`
+```bash
+sudo apt-get install git-core
+```
 - Create an account at [github.com]
 - Once logged into  your account, create a new repo.
 - In the local PC, open a terminal `CTRL+ALT+T`
